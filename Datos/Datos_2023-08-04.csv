@@ -1,0 +1,115 @@
+Preguntas,Autores,Respuestas,Vistas
+Is the statement about continuity of a linear function based on the closedness of its kernel always true?,functional-analysis,0,7
+Geometry question involving angle bisectors and similar triangles.,fake-proofs,0,4
+reduced suspension and intersection and union of subspaces.,Maths Wizzard,0,3
+Examples: Relatively compact and compact,geometry,0,4
+"Are there any formal set theories in which N, Z, Q, and R are subsets of each other?",euclidean-geometry,0,1
+Linear Programming - Showing optimality in a specific example (Section 2 - Problem 9 - Saul I. Gass),triangles,0,3
+Find the length of the line drawn at a given point which is parallel to the parallel bases of an isosceles trapezoid,acelixis,0,4
+"Suppose that $f(0) = 0, \forall x \in (0, 1]: f(x) > 0$ and the right-hand derivative $f'_{+}(0)$ exists",algebraic-topology,0,9
+Prove two right angled triangles with perpendicular sides have the same angles.,Candyblock,0,1
+"""Decomposition"" of graphs",general-topology,0,6
+Seeking help with a final expression as indicated in the problem.,examples-counterexamples,0,1
+Why is the map from the kernel to the domain always a monomorphism?,CIELO_LB,0,1
+Polynomial Growth Observed in a New Graph Coloring Algorithm: Insight or Oversight?,abstract-algebra,0,1
+Finding the area bounded by some curves using change of variables and double integrals,set-theory,0,1
+"Exercise 2.3.29 from Stroock's ""Probability Theory: an Analytic View""",SMMH,0,1
+"Powers of the Dirac Delta ""Function""",convex-optimization,2,2
+Defining a surjective function $f: S \to T$ where the set of preimage satisfy closure properties,linear-programming,0,1
+Unclear formula in the book of linear model for classification in the Bishop book (machine learning),Proper Illumination,0,1
+Approximating Fibonacci numbers,linear-algebra,0,3
+Well ordered set similar to an ordinal is an ordinal?,trigonometry,0,2
+average raised to n vs n! [closed],Rupesh Nath,0,2
+Show that this class of subsets doesn't constitute a semi algebra,real-analysis,0,1
+Transforming Decimal Numbers to a Specific Interval [closed],integration,0,9
+Probability: Single coin flip vs. multiple coin flips,improper-integrals,0,2
+"If $u$ is harmonic, $\exists \alpha,\beta \in \mathbb{R},\forall x\in \mathbb{R}^d,|u(x)| \leq \alpha |x|+\beta,$ then $u$ is affine",X4J,0,3
+Why are infinite-dimensional vector spaces usually equipped with additional structure?,triangles,0,5
+Implication of mean ergodic theorem,MOON,0,1
+Proof of set theory equivalence,graph-theory,0,2
+Show that $\sum_{k=0}^n\binom{n}{k}=2\sum_{k=0}^{[\frac{n-1}{2}]}\binom{n}{2k+1}i^{2k+1}$,eigenvalues-eigenvectors,0,3
+Proper name of the class of generalized harmonic series,Nadav Banay,0,1
+For which positive integers $m$ and $n$ do $x^m-x$ and $x^n-x$ being integers imply that $x$ is an integer,limits,0,4
+A probability question around population percentages: Assume that the population contains 50% men and 50% women...,derivatives,0,1
+"From the digits 0, 1, 2, ... 9 randomly choose three digits. What is the probability that these three digits can be used to write:",Shampy,2,6
+What maps preserve and reflect basic Horn formulas?,functions,0,2
+I need an analysis book that goes from basics to advanced through metric spaces and measure theory. [closed],category-theory,0,4
+How to apply some sort of matrix transformation over an entire grid?,monomorphisms,0,1
+Arithmetic meaning of certain periods of modular symbols of elliptic curves,node196884,0,1
+Uniform convergence of the given series in the domain $\Bbb R$ [duplicate],graph-theory,2,9
+"Is the locus of point $(h,k)$ every equation which satisfies it?",computational-complexity,0,2
+Peculiar behavior of an infinite product of the function $\tan(x)$,trigonometry,0,4
+Function with domain is the empty set [duplicate],infinite-product,0,3
+Expected number of rolls to get streak of three increasing rolls,uggupuggu,0,3
+Difficulty in understanding Permutation,elementary-set-theory,0,3
+Maximise a set of non-continuous linear equations,InTheSearchForKnowledge,2,2
+"To check whether $(G,*)$ is a group or not if $a_i*a_j=\begin{cases} a_{i+j}, i+j<7\\a_{i+j-7},i+j\geq7\end{cases}$ and $G=\{a_0,a_1,\dots,a_6\}$.",probability,0,5
+What is the meaning of the following highlighted expression?,expected-value,0,2
+"Determine the number of all rooted forests with a set of vertices $[n]$, where $n \geq 1$ (Cayley's formula?)",dice,2,1
+Area bounded by a curve,idk31909310,0,3
+What is norm of a continuous function?,combinatorics,0,3
+What is the convex hull of nonconvex polytopes defined by mixed integer linear inequalities (with only binaries),permutations,2,1
+Maximum of function of $n$ variables,combinations,0,6
+Any advice on this calculus VTRMC 1984 problem? Does my graph seem right?,user1208889,0,2
+Comparing coefficients gone wrong. How do we know it's allowed?,linear-programming,0,4
+How to solve: $\int{\frac{r dr}{\sqrt{a r^2 + b r + c}}}$,OMATRIX,2,5
+Prove that product of two locally connected spaces is locally connected. [duplicate],group-theory,0,2
+Prove that $\int_X(f+g)\;d\mu=\int_Xf\;d\mu+\int_X g\;d\mu$ for an extended $\mu$-integrable function.,MAHI,0,4
+Approximation problem using molifiers,tensors,0,3
+"Let $\zeta_p$ be a primitive $p$-th root of unity, and $f\in\Bbb Z[X]$. If $|f(\zeta_p)|=1,$ is $f(\zeta_p)$ a root of unity?",regression,0,5
+Free action of group such that the quotient prestack to be a presheaf,tensor-decomposition,0,1
+Matrix with invariant subspace,Tsang Yiklouis,0,4
+Higher-order 'clover functions' are not elliptic--how to see this?,discrete-mathematics,0,2
+Why is $\sum_{k=0}^{n-1} (-1)^k a^{n-1-k}b^k = \left(\sum_{k=0}^{n-2} (-1)^k(k+1)a^{n-2-k}b^k\right)(a+b)+(-1)^{n-1}nb^{n-1}$?,trees,0,1
+"Different sidewalks that can be laid using n $1 \times 1$ square white, blue and red tiles so that no two red tiles don't lie next to each other?",thefool,0,1
+Convergence of the integration of three functions,calculus,0,3
+Help understanding set-builder notation,integration,0,3
+"Evaluating $\int\frac{\log(x+a)}{x}\,dx$ in terms of dilogarithms",area,0,2
+Substituting and performing operations on differentials in integrals,user3.14,0,1
+Counting lattice points in cross-sections of a polytope,functions,0,1
+"A divisor $D$ that satisfies $D|_{U_i}=(f)$ on complements of prime divisors $Z_i=X-U_i$ is principle, and $D=(f)$.",Samyak Marathe,0,2
+"Prove or refute: ""If a 3x3 matrix is orthogonal and has det 1, then $\lambda$ = 1 is an eigenvalue with algebraic multiplicity different from 2.""",convex-optimization,0,4
+Odds on a 2 dice roll not happening [closed],convex-hulls,0,1
+Brownian Motion's path [closed],mixed-integer-programming,0,1
+Green´s function [closed],Ruihao Wang,0,1
+Range of $(\sin(x))^\infty$,real-analysis,2,4
+Correct approach on log(n+m+z)!,calculus,0,1
+Is there an algebraic way of getting AB = I implies BA = I for finite nxn matrices? [duplicate],multivariable-calculus,0,3
+Counting by changing signs in a $K \times K$ grid,linear-algebra,0,1
+Simplifying summation with formula that does not contain any index,combinatorics,0,1
+A phone number has seven digits and cannot begin with a 0. How many phone numbers contain the sequence 123?,matrices,0,9
+how many different numbers can you make by multiplying two one-digit even numbers?,codeboy,0,2
+Graphing with only positive integers,summation,0,2
+Probability of dart hitting a point given that it hits a point in a finite set of points,notation,0,5
+What is the answer to the who wants to be the milionare probability meme? [duplicate],Stacking_Flow,0,3
+The proof of an edge-analogue of the Erdos-Posa theorem,combinatorics,0,9
+Probability Distribution: Random lift stops,discrete-mathematics,0,1
+"Finding rational $a$, $b$, $c$ such that $ \sqrt[3]{\sqrt[3]{2} - 1} = \sqrt[3]{a} + \sqrt[3]{b} + \sqrt[3]{c}. $",combinatorics-on-words,0,4
+(A-λI) singular how?,Sandil Adhikari,0,1
+PDE: Is the solution unique?,real-analysis,0,6
+Spivak exercise 15 derivatives chapter,Ph Tom Liu Thin,0,3
+Problem (exercise) books in commutative algebra [duplicate],geometry,0,4
+"Why is ""true and false"" false?",integers,0,5
+Interpreting/understanding the lambertW on Maple software,Jonincannon,0,3
+How to calculate inverse of large matrix?,probability,0,3
+Convergence of a series given that the series with a specific parentheses insertion converges,conditional-probability,0,1
+Prove that $N_{G/N} (P N/N) = N_{G}(P)N/N$.,infinitesimals,0,2
+Seemingly paradoxical logarithm manipulations inside strange gaussian like double integral,Juan,0,5
+Ants on a 5-foot pole with a middle ant,probability,0,2
+Image of conditional expectation in von Neumann algebra,TheFibonacciEffect,0,2
+How to determine if a function is biased [closed],graph-theory,0,1
+"Continuous injection of Lipschitz space into $W^{1, \infty}$",dilong,0,3
+"Irrational Numbers and Surjection from $[0,1)$ to $[0,1)^2$",probability-distributions,0,5
+Solving Intervals Problem Without Outer Measure,ZordXXL,0,1
+Linear algebra books [closed],rational-numbers,0,4
+VC classes of functions are Glivenko-Cantelli classes,roots-of-cubics,0,1
+Does the vector space of differences of quantile functions have a neat characterization?,Yee Jian Lim,0,1
+I need help with how to draw the mesh for the given question and noting down the interior points. [closed],linear-algebra,0,1
+Weak version of the implicit function theorem,Gaurav Rajpurohit,0,3
+Isotypical decomposition of a semisimple module,sequences-and-series,2,2
+"Cardinality of Disjoint Sets, Interval Unions, and Schröder-Bernstein Theorem Clarification",ordinary-differential-equations,0,3
+"Do we have $\mathcal O_Y(U)\cong k[X_1,\cdots,X_n]$?",analysis,0,2
+Approximating a parameter involving limit and integral,partial-differential-equations,0,2
+What is the midpoint of a half disk's diameter called? Can't find the answer anywhere else.,linear-pde,0,1
+Recover an $L^1$ Integrand by Partial differentiation,geocalc33,0,1
+"Confusion about taking arbitrary element from $\langle a^k \rangle$ to prove $\langle a^k \rangle=\langle a^{gcd(n,k)} \rangle$.",real-analysis,0,3

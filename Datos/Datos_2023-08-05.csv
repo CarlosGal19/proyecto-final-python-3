@@ -1,0 +1,100 @@
+Preguntas,Autores,Respuestas,Vistas
+Proof that the sequence defined by the average of the last two terms is convergent.,real-analysis,0,2
+An isomorphism between $V$ and $V^*$ induces an inner product on $V$,sequences-and-series,0,4
+Set theory class 12 question,analysis,0,5
+Solution to a Boundary Value Problem using Green's Function leads to a diverging integral,solution-verification,0,2
+Normal bundle of a family of manifolds and its structures,proof-writing,0,2
+That problem is to show how we prove the subgroup of quarterion group,martinkleins,0,8
+Smallest possible value of k.,real-analysis,0,1
+Understanding proof of the Krull's height theorem,inner-products,0,1
+"Stalling's ""Topology of Finite Graphs"", question regarding the images of the induced homomorphisms",Mahtab,0,1
+combinatorics / Counting problem,discrete-mathematics,0,1
+Basis Minor Theorem Book in Shilov's Linear Algebra Book 1.93: why i≤r,Anonymous,0,1
+Proving that there are infinitely many points on the unit circle such that the distance between any two of them is a rational number.,integration,0,3
+Why can I integrate two differentials on the two side of an equation?,definite-integrals,0,2
+Expected time to reach boundary for two i.i.d. random walks?,boundary-value-problem,3,1
+Is $f^{-1}(A)$ always rigorously defined even when $A$ is a set not in the codomain?,greens-function,0,5
+Applications of derivatives in real life question,Researcher R,3,1
+Bounds on the ratio between second raw moment and expected of absolute value squared,differential-geometry,0,1
+Doubt about the power of $x$ of the function to find that $f(x) = 3$ is an even function,manifolds,0,8
+How to merge 2 multivariate Gaussians with different probabilities of occurring?,differential-topology,0,1
+Understanding the Mathematics of 'The Game of Life' by John Conway and Cellular Automata,fiber-bundles,0,9
+"Evaluating $\int_{0}^{1}\frac{\arctan(x)}{x^2+x+1}\,dx$",timaeus,0,3
+Double sum of natural numbers squared,abstract-algebra,0,3
+Central Limit Theorem Variant,Rukundo Jeannepo,0,2
+Limit of 𝑥[3−cos($𝑥^2$)] using the epsilon-delta definition,algebra-precalculus,0,2
+"Given, $\frac{f'(x)}{g'(x)}+f_1(x)\frac{f(x)}{g(x)}=f_2(x)\;\forall x\gt0$. Find $\lim_{x\to\infty}\frac{g'(x)}{f'(x)}$",inequality,0,2
+Perceptron Convergence: Monotonically Approach Solution?,triangles,0,1
+"In a planar embedding of a graph, can vertices lie on each other?",problem-solving,0,2
+Doubt verification regarding tiling.,discriminant,0,1
+Characterizing smooth functions in polar coordinates,tjun kit min,0,2
+Why is a non-planar graph still non-planar after subdividing it?,commutative-algebra,0,2
+Last step of an intense algorithm requiring efficiency: A closed form for $\sum_{s=2}^{\lfloor\frac{T}{2}\rfloor}{2s-1 \choose s-2}{T \choose T-2s}$?,krull-dimension,0,2
+Complex eigenvalue of a linear transformation on a real vector space,Plantation,0,2
+I am trying to reconcile various number properties with this scenario: a factored expression similar to 2(b+g) in a formula with a division operation,group-theory,0,9
+Does $\sum_\rho R(x^\rho) \sim \sqrt{x}/\log(x)$ assume the Riemann hypothesis?,fundamental-groups,0,2
+Prove that $\tau$ is a topology on $X$.,covering-spaces,0,3
+Fractional iteration of the exponential map z <- exp(lambda (z - w)),numerical-methods,0,1
+Why Can't Cubic Equation Have Fractional Solutions When Its Coefficients Are All Integers?,taylor-expansion,0,5
+When is a freely contractible space also based contractible?,interpolation,3,1
+how long does it take to guess 4 digit pin when you have all 4 numbers,fractional-iteration,0,5
+Directly irreducible ring and central idempotents,Emanuel Landeholm,0,1
+TV aspect ratio,algebra-precalculus,0,3
+Arrangements around a table with at least 4 in a row - casework,proof-explanation,0,3
+"cumulative distribution function of $Z:=\min(X,Y)$",cubics,3,2
+Equality of two sigma algebras,Camelot823,0,2
+Inverse Laplace transform of the inverse of the product of two gamma functions,algebraic-topology,0,1
+Express the following $\int \cdots \int \prod_i AR_i ^{\alpha_i-s_i}dR_{k-1} \cdots dR_1$ in binomial form,homotopy-theory,0,1
+Graphing $r^3cos(3\theta)-1=0$ in the $xy$ plane.,retraction,0,3
+Proving the following question: Z[3i] isn't PID by use of the quotient map Z/(3i) isn't a field.,homotopy-extension-property,0,4
+Is there a measure theoretic interpretation of rough path integrals?,subrosar,0,2
+First order non-linear ODE with quadratic and linear derivatives,probability,0,1
+A non-axiomatizable class of structures whose theory is computably infinitely axiomatizable,combinations,0,2
+"Why is $Ext_{\mathcal{S}}^{j}(H,G) = 0$ if $H$ is a free sheaf and $G$ a flabby sheaf?",Kalamalka Kid,0,2
+Is the class of polynomial rings an axiomatizable class?,abstract-algebra,0,3
+"Meaning of $\frac{dx}{f(x,y)}=\frac{dy}{g(x,y)}$",ring-theory,0,3
+Nodal rational curve and Kodaira type $I_1$ singularities,noncommutative-algebra,0,4
+Weird thing with 1/0?,idempotents,0,4
+Understanding edges and vertices in graph theory,Gargantuar,0,1
+Expected number of cards to draw before first ace using stopping times?,geometry,0,1
+Simplixes over integers not real numbers,ratio,0,1
+Compute the induced homomorphism on deRham cohomology,Frank S,0,3
+Is the statement about continuity of a linear function based on the closedness of its kernel always true?,probability,0,2
+"If the bisector of $\angle A$ in $\triangle ABC$ meets $BC$ at $U$, prove that $AU^2 = \frac{bc(1-a^2)}{(b+c)^2}$",mk0219,2,3
+reduced suspension and intersection and union of subspaces.,probability-theory,0,1
+Examples: Relatively compact and compact,probability-distributions,0,1
+Implication of mean ergodic theorem,measure-theory,0,2
+Proof of set theory equivalence,operator-theory,0,3
+Show that $\sum_{k=0}^n\binom{n}{k}=2\sum_{k=0}^{[\frac{n-1}{2}]}\binom{n}{2k+1}i^{2k+1}$,hilbert-spaces,0,4
+Proper name of the class of generalized harmonic series,ergodic-theory,0,2
+For which positive integers $m$ and $n$ do $x^m-x$ and $x^n-x$ being integers imply that $x$ is an integer,unitary-matrices,0,5
+A probability question around population percentages: Assume that the population contains 50% men and 50% women...,MBlrd,0,1
+"From the digits 0, 1, 2, ... 9 randomly choose three digits. What is the probability that these three digits can be used to write:",elementary-set-theory,0,6
+What maps preserve and reflect basic Horn formulas?,Wrloord,0,3
+I need an analysis book that goes from basics to advanced through metric spaces and measure theory. [closed],sequences-and-series,0,5
+How to apply some sort of matrix transformation over an entire grid?,summation,0,2
+Arithmetic meaning of certain periods of modular symbols of elliptic curves,binomial-coefficients,2,1
+Uniform convergence of the given series in the domain $\Bbb R$ [duplicate],problem-solving,0,1
+"Is the locus of point $(h,k)$ every equation which satisfies it?",joe_bill.dollar,0,3
+Configuration model for weighted graphs for use in modularity formula,sequences-and-series,0,1
+Limit of non bijective operators is not bijective?,terminology,0,2
+Maximise sum(p_i*i)-max(p_i*i) with p permutation of size n,harmonic-numbers,2,8
+Distinguishing partitions of a set,thb,0,3
+Does ZF prove the existence of a minimum size uncountable set of reals? (i.e. a set X ⊆ ℝ all of whose uncountable subsets have bijections with X),elementary-number-theory,0,3
+How Many Squares In A Grid Of Dots? [duplicate],polynomials,0,2
+Solving this simple separable differential equation gives 2 answers?,integers,0,3
+Edges of a complete graph have one of $2$ colors. Prove that every two vertices can be connected by a path of edges of same color of length at most 3.,marty cohen,0,1
+Local definition of closed set,probability,0,3
+Trace of tensors in pseudo-Riemannian manifolds,conditional-probability,2,3
+A unit vector in Cylindrical Coordinates [closed],Samyak,0,1
+Peculiar behavior of an infinite product of the function $\tan(x)$,probability,0,4
+Function with domain is the empty set [duplicate],probability-theory,2,3
+Expected number of rolls to get streak of three increasing rolls,Cyberkachok,0,3
+Fast polynomial division with remainder,logic,0,8
+Difficulty in understanding Permutation,reference-request,2,4
+Maximise a set of non-continuous linear equations,model-theory,0,2
+"To check whether $(G,*)$ is a group or not if $a_i*a_j=\begin{cases} a_{i+j}, i+j<7\\a_{i+j-7},i+j\geq7\end{cases}$ and $G=\{a_0,a_1,\dots,a_6\}$.",universal-algebra,0,5
+What is the meaning of the following highlighted expression?,Pteromys,0,2
+"Determine the number of all rooted forests with a set of vertices $[n]$, where $n \geq 1$ (Cayley's formula?)",real-analysis,2,1
+Area bounded by a curve,analysis,0,1
+What is norm of a continuous function?,measure-theory,0,3

@@ -1,0 +1,112 @@
+Preguntas,Autores,Respuestas,Vistas
+Probability of being the last one out when there are two queues with 1 customer in each,probability,0,2
+"Has Anyone Ever Heard Of The ""Weighted Median""?",probability-distributions,0,1
+Invariant event of stationary processes,exponential-distribution,0,2
+Spectrum of $A + s N$ constant in $s$ when?,Heng Wei,0,8
+$\lim_{x\to \infty} \left(\int_0^x e^{t^2} dt\right)^{\frac 1 {x^2}}$,probability,0,1
+Extending Takeuti's proof of the completeness theorem to sentences with constants.,stats_noob,0,7
+Is it possible to divide a 5x5 square into exactly eight 1x3 rectangular blocks and one 1x1 square block? [closed],probability-theory,0,1
+Motivation for Connections over smooth manifolds,ergodic-theory,0,8
+Compare real analysis textbooks,stationary-processes,0,1
+Morphisms to the constant adic space associate to a profinite set,Shunan Sheng,0,6
+Combinations of $n$ rocks from $m$ places,linear-algebra,0,1
+Quadrant of matrix inverse with special initialization,abstract-algebra,0,5
+Why is $\sqrt(-i^2) = 1 $ and not -1? [duplicate],matrices,0,2
+"Two questions about a proof on this site: show $\displaystyle\lim_{n\to\infty} \int_{0}^{\infty} \frac{x^{1/n}}{(1+\frac{x}{n})^{n}} \,dx = 1$.",orangeskid,0,2
+What is the probability of seeing $7$ heads in the toss of $12$ coins?,real-analysis,0,3
+Neyman-Pearson Lemma clarification,limits,0,1
+Is there a mistake in a GRE preparation book?,exponential-function,0,6
+Fibonacci-esque sequences modulo $1$: what is the largest possible smallest element?,Robert,0,3
+Proving $\overline{(x-\overline x)(y-\overline y)}=\overline{xy}-\overline x \cdot \overline y$,first-order-logic,0,4
+Which LAPACK routine should I use if I only want to compute the eigenvectors?,proof-theory,0,1
+Commutativity relation on forms,zaq,0,4
+"For $T\in L(V,W)$, prove that there are bases such that $M(T)$ is 1 on the first dim range $T$ elements of the diagonal and zero everywhere else.",puzzle,0,1
+Existence of complete subgraphs of a complete graph,tiling,0,1
+Show the Euclidian projection onto a closed set is a Lipschitz function,Dennis Yang,0,2
+Continuity at a point doesn’t imply continuity at some small interval around it,derivatives,0,5
+does it exist a recurrence relation for all/some of the integer solutions of Diophantine ec: bXY=f?,differential-geometry,0,1
+Compute a series with a Fourier series,euclidean-geometry,0,2
+Length of the GCD of two strings [duplicate],vector-bundles,0,3
+retractions of circle,connections,0,2
+Alternate method to solve the expected number of connected components,wood,0,1
+Root representation using the factorization of polynomials upto degree six,real-analysis,0,2
+Holonomy representation of complete connected hyperbolic surfaces up to conjugation,book-recommendation,0,6
+Induction strategy with mathematical symbols,Ricardo Mejías Constanzo,0,2
+Are the n-tuples of constructible numbers a model for Euclidean Geometry?,algebraic-geometry,0,1
+Derivation of Complex Fourier Series coefficients through inner products (and swapping arugments),p-adic-number-theory,0,1
+Proving that the projection map from Cartesian product is onto,arithmetic-geometry,0,1
+Bounds on the spectral radius of a directed graph,Jabberwocky,0,1
+Multiplication af natural numbers,combinatorics,0,5
+Expected value with unit cubes and random lines,combinations,0,1
+The ship is made of holes: what happens to the limit of a function when it has infinitely many continuous removable discontinuities?,Shefield,0,4
+Sum of values across a line?,calculus,2,4
+Is there a quadratic version of exponential smoothing?,linear-algebra,0,3
+Support of a measure and separability,combinatorics,0,1
+Variant of minimum weight perfect matching problem with Hungarian algorithm,matrices,0,1
+can Euclid prove that a straight line is the shortest distance between two points?,vector-spaces,0,7
+Typesetting in markdown for stylized y? [closed],notation,0,2
+The Group of Bounded Permutations,blueberryfields,0,3
+Proof that the union of bounded set is bounded,abstract-algebra,0,4
+Product of a transposition with any $k$-cycle,group-theory,0,1
+Is there a name for a morphism which makes a left inverse act like a two-sided inverse?,permutations,0,3
+Can you provide feedback on my approach to proving that $\mathbb{N}×\mathbb{N}$ is denumerable?,symmetric-groups,0,3
+What are the necessary requirements to make this composite monad rewrite work?,Miles Gould,0,1
+Algorithm to make every number in a set positive but keep the ratios between them?,metric-spaces,0,3
+Can $f([x])$ be continuous?,Emanuel Dias,0,4
+How to get a 2D curve line when given a curvature,permutations,0,1
+Universal property of the order topology?,symmetric-groups,0,2
+"Calculating $\mathbb E[X|X^2+Y^2]$ with $X,Y\overset{iid}{\sim}\mathcal N(0,1)$",permutation-cycles,0,2
+Reference Request for Schatten Class Operators being an ideal in the set of Bounded operators.,ZeroTheHero,2,2
+Block matrices rank inequality,category-theory,0,2
+What does the conjunction symbol ∧ mean with regards to stochastic processes and probability theory,terminology,2,4
+Proof of unique existence of composition arrow for internal homs in a Cartesian closed category.,inverse-function,0,3
+Who proved that $\pi(n) < 1.25506\frac{n}{ln(n)}$?,retraction,0,6
+Comparing Equating $\frac{dy}{dx}$ with Lagrangian Optimization,monomorphisms,2,3
+Density function train arrival problem,Sambo,0,2
+Open statements in first order logic,real-analysis,0,6
+Is it possible to design a 4th dimensional circuit,elementary-set-theory,0,4
+Recurrence relation for inverse log integral,solution-verification,0,3
+"If $f \in BV_{1/2}([0, 1])$ then $f \in BV([0, 1])$?",self-learning,0,1
+How to evaluate the indefinite the delta function?,HeadlessHorseman.7,0,3
+"How many 7 permutations of $\{1,\ldots,9\}$ are there such that $5$ and $6$ do not appear consecutively",category-theory,0,6
+Identitfy the steps of this expression [closed],monads,0,2
+Proving that the implicit Euler method is symplectic,Ben Sprott,0,2
+How to solve this following sum using differentiation,algebra-precalculus,0,5
+shortest vector problem with lattice using Euclidean $L^2$ norm,computer-science,0,6
+"$k(R(x),R(x+1)) = k(x)$ for a non-constant rational function $R(x)$",computational-complexity,0,1
+How can I prove $\sigma(\Delta)=\sigma_{\mathrm{ess}}(\Delta)$?,integer-lattices,0,1
+Generalized approximation for $\cos(ax)\\$ in the first and fourth quadrants [closed],np-complete,0,1
+Proving that $\frac{\sin(t\theta)}{\sin(\theta)}\leq t$ for $t > 0$,geocalc33,2,6
+Help me ask this confused question about the divergence of the harmonic series,abstract-algebra,0,9
+How to solve this inequation? I dont know how to solve this problem [closed],field-theory,0,2
+right objective for optimizing PSD matrix,orangeskid,0,8
+Linear Optimization - Best algorithm?,functional-analysis,0,3
+Find x and y for $11^x=5*2^y+1$,sobolev-spaces,0,6
+Relationship between two functions in integral form,spectral-theory,0,3
+Sum of Variance,laplacian,0,3
+Coordinate system for the region between a circle and a square,MackeyTopology,0,1
+Researchers in partial differential equations,trigonometry,0,2
+Proving limits by definition [closed],approximation,0,1
+Common Roots of Several Multivariate Polynomials with Integer Coefficients with an Additional Property: Their GCD is Linear when Some Variables Fixed,Phil Freedenberg,0,1
+How to solve this limit involving the factorial function,real-analysis,0,5
+Asymptotic Bound,trigonometry,0,3
+Why do I get: $\cos((\frac1x)^4)\sin(x^6) = 0?$,Cartesian Bear,0,3
+More examples of non-split algebraic groups,sequences-and-series,0,2
+"Let $\pi:\mathcal{Y}\rightarrow \mathbb{C}$ be flat and with generic fiber $\mathbb{C}^*$, what variety could be the central fiber?",soft-question,0,1
+question about proof of theorem of regularity,divergent-series,0,1
+Series expansion for $\displaystyle{\psi(t+2)-\psi\left(\frac{t+3}{2}\right)}$,harmonic-numbers,0,1
+Extremal problems for (non-convex) polygons on hexagonal lattices,MJD,0,5
+Gaussian Elimination with linear combination solution,inequality,0,2
+Transformations of probability distributions?,Chien Nguyen,0,2
+Combinatorics Question on breakdown of boats [closed],optimization,0,2
+"Is it possible to construct a precise regular pentagon with just a straightedge (no compass)? If yes, then how?",nonlinear-optimization,0,2
+Pigeon-Hole Principle Problem: Several Visitors to a Mathematics Library,MRm,0,2
+A singular average integral,optimization,0,1
+"Let R be the region bounded by the graph of f(x) and the x -axis on the interval [a,b]. If f(x) is positive on the interval [a,b], then",muosac,0,2
+How can I show this improper integral?,linear-algebra,0,3
+The Legendre Conjecture,exponentiation,0,3
+Operator equation $Ax-\lambda x=h$,Ionela Buciu,0,2
+Area Calculation By definite integrals [closed],real-analysis,0,2
+analyzing a particular function,integration,0,2
+Projective module base change,functions,2,1
+Disjoint union of topological space is subspace,definite-integrals,0,3

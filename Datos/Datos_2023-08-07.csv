@@ -1,0 +1,107 @@
+Preguntas,Autores,Respuestas,Vistas
+drawing balls from an urn with specific labels and colors,probability,0,3
+Is there a specific name of $\sum_{i=1}^{n} ix_i$ and $\sum_{i=1}^{n} i^2x_i$?,Tanner S,0,2
+20 and 30 Sided Dice Game,linear-algebra,0,1
+Find the remainder without differentiation,quadratics,0,5
+Coupon Collector seeing exactly n - 1 unique coupons,ximeng fan,0,9
+Dimension of product variety using finite morphisms,probability,0,1
+does this exercise have an error in van Dalen's Logic and Structure?,statistics,0,1
+A bit confused of a part of a proof of a lemma for the open map theorem (Analysis Now),expected-value,0,2
+Show that a function is not continuous under the product metric,game-theory,0,1
+"Maximal estimate of how many primes are contained in $(p_i\Bbb{Z} + 2) \cap I_n$ where $I_n = [p_n + 1, ..., p_{n+1}^2 -3]$?",dice,0,1
+Can we evaluate $\int_0^\pi i^{\tan x} d x$ without contour integration?,Anon,0,4
+How do we check the irreducibility of time homogeneous markov chains with finite state space $|\mathcal{S}| = n$ when $n$ is big?,polynomials,0,1
+Rudin Functional Analysis Theorem 1.10,real-numbers,0,1
+How many different subspaces can a separable Hilbert space have?,Angelo Mark,0,1
+Distribution of the number of prime factors a large number $n$ has?,probability,0,2
+Quotient of a free group,combinatorics,0,3
+For a finite locally free $A\to B$ when does the different equal the Noether different?,coupon-collector,0,7
+"Particle Swarm: Restart a stalled particle near the ""global best"" or the particle's ""local best"" position?",Cilantro,0,1
+Resolvent operator is always bounded?,algebraic-geometry,0,1
+how is this partial fraction done? [closed],affine-varieties,0,2
+"Let $E$ be a TVS and $f:E \to \mathbb R^n$ linear. If $\ker f$ is closed, then $f$ is continuous at $0_E$",krull-dimension,0,1
+Existence of the shortest vector in a lattice,user426214,0,1
+Does the given symmetry help to prove that the region in which conditions $\textbf{cond.1}$ and $\textbf{cond.2}$ hold is the same?,logic,0,1
+Local first integral on open set,blahblah,0,1
+Fractional parts summing more than 1,functional-analysis,0,3
+Generate uniform random numbers with a certain dependency structure,analysis,0,1
+"The following is a contour integral, any advice would be appreciated.",vector-spaces,0,5
+Cardinality and infinity [duplicate],banach-spaces,0,2
+Intuition behind curvature 2-forms,3j iwiojr3,0,3
+The Riemann hypothesis gives the best bound for prime number theorem [closed],real-analysis,0,4
+If there is an embedding from K to the p-adic numbers then p splits in K,functional-analysis,0,1
+Non-vanishing of mod 2 intersection number for odd-dimensional manifolds implies the ambient manifold is nonorientable.,continuity,0,2
+Simplified expression for the nth derivative of the n+1th power of a function,metric-spaces,0,4
+How would you prove that there are infinitely many pairs of numbers that satisfy this expression? [closed],sucksatmath,0,2
+"Is Biconvex function f(x,y):=yg(x), (where g is a convex function and non-decreasing, y>=0), Pseudoconvex function? [closed]",elementary-number-theory,0,8
+Set notation for 1) x_i and x_j belong to same class. 2) do not belong to the same class?,prime-numbers,0,2
+Repeated roots i characteristic equation,modular-arithmetic,0,2
+Finding a transformation that squares the components of a vector,asymptotics,0,2
+Associativity of tensor product for (bi)modules,prime-twins,0,2
+I am working with exponential equations and models.,algebra-precalculus,0,4
+"If $x_d \to 0_E$ and $\sup_{d\in D} |\lambda_d| <\infty$, then $\lambda_d x_d \to 0_E$",exponential-function,0,1
+Transform integral with complex bounds,Andrew Giacobazzi,3,3
+Equality of two sets in linear algebra,convergence-divergence,0,4
+Why doesn't this argument prove every nonsingular curve embeds into the projective plane?,solution-verification,2,6
+A sum of linearly independent functions with coefficients depend on the domain of functions,topological-vector-spaces,0,2
+Is it possible to explain geometrically why $\arctan (1/2) +\arctan (1/3) = 45$ degrees?,nets,0,2
+On the definition of radius of convergence; a small supremum technicality,Akira,0,3
+Is the $\mathcal{P}(\mathcal{P}(\mathbb{R}^ 2 ))$ equal to $\mathcal{P}(\mathbb{R^2}) $?,integration,0,5
+"Inverse formula of ""summing reciprocials of consecutive odd integers""",complex-analysis,2,2
+Expected Value of Rewards from Coin Flipping,integral-transforms,0,4
+Eigenvalues of Ad$X$ are $\lambda_j-\lambda_k$ where $\lambda_i$'s are those of $X$,t.o.,0,2
+Expectation Value of the Product of a Time integral and a Ito Integral,linear-algebra,0,1
+Is there a prototype basis for every vector space?,Simon Podstavek,0,6
+Can the Riemann hypothesis be viewed geometrically?,algebraic-geometry,0,7
+A matroid that is graphic in characteristic 2 but not in characteristic 3,oggledog,0,1
+"Number of sequences $(A_1, A_2, . . . , A_k)$ of subsets of the set $[n]$ satisfying the condition $A_1 \cap A_2 \cap ... \cap A_k = \emptyset$",linear-algebra,0,3
+Simplifying $ \frac{3\sqrt{a^2}}{\sqrt{3}} \div 2a^{3/2}$,Mohan,2,4
+One-step vectorial recurrence into multi-step scalar recurrence on commutative rings with boundary conditions,geometry,0,1
+"Outer measure: $|A| = |A\cap (-t,t)| + |A\cap (\mathbb{R}\backslash (-t,t)|$",trigonometry,0,1
+Are these two definitions of smoothness on manifolds equivalent?,proof-without-words,0,1
+Random sampling over a convex set,A A,0,1
+Finding determinant of a matrix in an equation,real-analysis,0,4
+Lower bound of $\int_{0}^{1}\left(\frac{2\ln(x)}{\sqrt{x}}\right)dx$ is undefined but online calculators ignore it?,calculus,0,7
+Find new min / max number of a range to normalize certain numbers to be a certain percentage of the new range.,power-series,0,1
+The number of surfaces between connected components in higher dimensions,supremum-and-infimum,0,1
+Help with proof of characterization of finitely generated modules over a PID,sunny,0,2
+"If $a$ and $b$ are real numbers with $b \geq 2|a|$ , then $b \geq \sqrt{b^2 - 4a^2}$",elementary-set-theory,0,4
+Let $\triangle ABC$ be isosceles with $AB=AC$. Let $D$ such that $BD=AD$. Calculate the measures of the angles of the triangle $AED$.,Raid Zougari,0,3
+"Let $U(n)$ be the group of units in $\mathbb{Z}_n$. If $n>2$, then there is an element $k\in U(n)$ such that $k^2=1$ and $k\neq 1$. [duplicate]",real-analysis,0,3
+standard deviation of standard deviation,summation,0,1
+"If $t_nx_n\to y$ and $A\subseteq [0, \infty)$ is syndetic, is there $r_n\to\infty$ that $r_n\in A$ and $r_nx_n\to y$?",inverse-function,0,1
+I am thinking of a reversible ring which is not central armendariz.,user12262,0,1
+Non-variational partial differential equation,probability,0,2
+"Suppose that $X_n \rightarrow X$ in $L^p, p \geq 1$, then $E|X_n|^p \rightarrow E|X|^p$.",probability-theory,0,3
+"For $L^p$ space to be a Banach space, do we need an equivalence relation?",random-variables,0,2
+The meaning of the equation of the line that passes through a point and intersects with a vector..,random-functions,0,2
+Rough average length for the hailstone sequence produced from $n$?,sequences-and-series,0,4
+"Analysis I, can Tao's construction of the integers be further simplified?",asymptotics,0,6
+Finding the roots of a polynomial to get expression for real part of a unit root of the heptadecagon,upper-lower-bounds,0,7
+existence of maximal interval (ODE),collatz-conjecture,0,2
+Natural density of numbers divisible by a random number $r$,chausies,0,2
+Ohm's law and its relation to complex numbers,real-analysis,0,7
+Showing convergence or divergance of the series $\sum_{k=1}^{\infty}\frac{\ln(k+1)-\ln(k)}{\sqrt{k+1}}$,set-theory,0,6
+On the algebraic classification of homotopy 1-type,integers,0,1
+Roulette wheel question regarding the probability that each number will be the result in sequence in 36 consecutive spins,peano-axioms,0,2
+"If $X_0,X_1,X_2,...$ are IID random variables and uniform on $S^1$, then so are $X_0+X_1,X_0+X_2,...$?",HJE,0,4
+Probability Distribution of X-Y,abstract-algebra,0,2
+Landau-Siegel zeros: Why can't they be found?,polynomials,0,6
+Correspondence between real numbers and points of a line,roots,0,4
+Get bessel's kind functions from my approach,calculatormathematical,0,2
+Equation representing a pair of equal straight lines,ordinary-differential-equations,2,4
+"Is there a mistake in Zagier's ""Hyperbolic manifolds and special values of Dedekind zeta-functions""?",Math Guy,0,1
+"Solution of IVP $\frac{dy}{dx}=x^2y^2e^{x^4y^4}, y(0)=1$.",number-theory,0,3
+Demonstration of some integrals,analytic-number-theory,0,5
+Why is a Countable Basis Needed in This Proof?,integers,0,8
+When does $supp (f \ast g) = supp(f)+supp(g)$?,vxek,0,5
+Uniqueness-proof,complex-numbers,0,3
+3 eggs 100 floors - the least tries to find the floor which eggs broke [closed],mathematical-physics,0,2
+How can they add $SOS$ in inequality?,WinstonCherf,3,2
+Help solving a system of ODE,calculus,0,5
+Probability math question (independent and mutally exclusive events),limits,0,1
+Help me understand the integral $\dfrac{1}{4\pi} \int_{t}^{\infty} {\dfrac{dr}{r} \int_{|x-y| = r} {\alpha(y)dS_y}}$ while studying wave equation,Garlic6522,0,1
+Problem in Understanding the Concept of Significant Figures in Numerical Mathematical Analysis,algebraic-topology,0,3
+Equivalence of the LDL decomposition with an upper-triangular or lower-triangular matrix,homotopy-theory,0,1
+Where does this factor of $\pi$ come from in the period of small oscillations about equilibrium points?,Horned Sphere,0,2
+Limit of a function with identity functions,probability,0,1
